@@ -3,7 +3,7 @@
 # BTAlertAI
 
 <div align="center">
-  <img src="./doc/Imagens/BureauTechLogo.png" height="400" width="600"/>
+  <img src="/docs/Imagens/BureauTechLogo.png" height="400" width="600"/>
 <p align="center">Plataforma de presivibilidade de ocorrências</p>
 
 Desenvolvido pela [BureauTech](https://github.com/BureauTech).
