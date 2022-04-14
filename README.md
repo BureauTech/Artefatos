@@ -1,20 +1,19 @@
 # Artefatos
 
-# BureAuto
+# BTAlertAI
 
 <div align="center">
-  <img src="./doc/img/bureauto_sem_fundo.png" height="400" width="600"/>
+  <img src="./doc/Imagens/BureauTechLogo.png" height="400" width="600"/>
 <p align="center">Plataforma de presivibilidade de ocorrências</p>
 
 Desenvolvido pela [BureauTech](https://github.com/BureauTech).
 
-Disponível em https://bureauto.herokuapp.com/
 
 </div>
 
 # Sumário
 
-   * [Sobre](#bureauto)
+   * [Sobre](#btalertai)
    * [Sumário](#sumário)
    * [Entregas](#entregas)
       * [Burndown](#burndown)
@@ -96,11 +95,14 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [NodeJS](https://nodejs.org/)
 - [PostgreSQL](https://www.postgresql.org/)
 - [VueJS](https://vuejs.org/)
+- [Spring Boot](https://spring.io/projects/spring-boot)
 
 Bibliotecas:
 
 
 # Autores
+
+//Ajustar link com contribuições
 
 <table align="center">
   <tr>
