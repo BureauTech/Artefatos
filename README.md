@@ -28,20 +28,29 @@ Desenvolvido pela [BureauTech](https://github.com/BureauTech).
 
 ## Aplicação 
 
+Este projeto está dividido, conforme descrição abaixo:
+
+- Aplicação CRUD (Cadastrol - Backend)[https://github.com/BureauTech/Cadastrol-Server]
+- Aplicação CRUD (Cadastrol - Frontend)[https://github.com/BureauTech/Cadastrol-Client]
+- Aplicação com Inteligência Artificial (BTAlert)[https://github.com/BureauTech/BTAlert-AI]
 
 # Entregas
 
-- [Sprint 1]() entrega realizada em 17/04/2022.
+- *Sprint 1* entrega realizada em 17/04/2022.
 
 ## Visão geral do projeto
 
 <div align="center">
-  <img src="./docs/Imagens/Cards%20-%20Sprint%201.png" />
+  <img src="./docs/Imagens/Card%20-%20Geral.png" />
 </div>
 
 <br/> 
 
 ## Entregas propostas Sprint 1
+
+<div align="center">
+  <img src="./docs/Imagens/Cards%20-%20Sprint%201.png" />
+</div>
 
 ## Burndown
 
@@ -64,7 +73,6 @@ Desenvolvido pela [BureauTech](https://github.com/BureauTech).
 
 - [Termo de Abertura do Projeto](docs/Artefatos/TAP_V0.1.2.pdf)
 
-
 # Como executar localmente
 
 Para executar a aplicação completa localmente:
@@ -85,10 +93,6 @@ Para execução do lado do servidor (aplicação teste), leia os [procedimentos 
 
 Para execução do lado do cliente (aplicação teste), leia os [procedimentos para execução](https://github.com/BureauTech/Cadastrol-Client#how-to-install). 
 
-# Testes da aplicação
-
-
-
 # Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
@@ -100,8 +104,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Docker](https://www.docker.com/)
 
 # Autores
-
-//Ajustar link com contribuições
 
 <table align="center">
   <tr>
