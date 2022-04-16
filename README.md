@@ -53,7 +53,7 @@ Este projeto está dividido, conforme descrição abaixo:
 ## Burndown
 
 <div align="center">
-  <img src="./doc/img/burndown3.png" />
+  <img src="docs/Imagens/Burndown-Sprint1.png" />
 </div>
 <br/> 
 
