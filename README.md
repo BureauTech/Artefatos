@@ -52,17 +52,17 @@ Desenvolvido pela [BureauTech](https://github.com/BureauTech).
 
 ## Documentações 
 
-- [Product Backlog](/Artefatos/Product%20Backlog.pdf)
+- [Product Backlog](docs/Artefatos/Product%20Backlog.pdf)
 
-- [Cronograma](/Artefatos/Cronograma.pdf)
+- [Cronograma](docs/Artefatos/Cronograma.pdf)
 
-- [Escopo do Projeto](/Artefatos/Declaracao%20do%20escopo%20do%20Projeto.pdf)
+- [Escopo do Projeto](docs/Artefatos/Declaracao%20do%20escopo%20do%20Projeto.pdf)
 
-- [Design Thinking](/Artefatos/Design%20Thinking.pdf)
+- [Design Thinking](docs/Artefatos/Design%20Thinking.pdf)
 
-- [Documentação CRISP](/Artefatos/CRISP.pdf)
+- [Documentação CRISP](docs/Artefatos/CRISP.pdf)
 
-- [Termo de Abertura do Projeto](/Artefatos/TAP_V0.1.2.pdf)
+- [Termo de Abertura do Projeto](docs/Artefatos/TAP_V0.1.2.pdf)
 
 
 # Como executar localmente
