@@ -35,19 +35,13 @@ Desenvolvido pela [BureauTech](https://github.com/BureauTech).
 
 ## Visão geral do projeto
 
-//Cards do que foi planejado aqui
-(o todo e o que foi para essa sprint)
-
 <div align="center">
-  <img src="./doc/img/funcionalidades_projeto.png" />
-</div>
-<div align="center">
-  <img src="./doc/img/abordagem_sprints.png" />
+  <img src="./docs/Imagens/Cards%20-%20Sprint%201.png" />
 </div>
 
 <br/> 
 
-## Entregas propostas Sprint 4
+## Entregas propostas Sprint 1
 
 ## Burndown
 
@@ -77,12 +71,19 @@ Para executar a aplicação completa localmente:
 
 ### Pré-requisitos:
 
+Para execução da aplicação a ser monitorada (Cadastrol), é importante ter ambientado o seu computador conforme documentados em seus repositórios.
+
+[Clique aqui para execução do Backend](https://github.com/BureauTech/Cadastrol-Server)
+
+[Clique aqui para execução do Frontend](https://github.com/BureauTech/Cadastrol-Server)
 
 ## Servidor
 
+Para execução do lado do servidor (aplicação teste), leia os [procedimentos para execução](https://github.com/BureauTech/Cadastrol-Client#how-to-install). 
 
 ## Cliente
 
+Para execução do lado do cliente (aplicação teste), leia os [procedimentos para execução](https://github.com/BureauTech/Cadastrol-Client#how-to-install). 
 
 # Testes da aplicação
 
@@ -96,9 +97,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [PostgreSQL](https://www.postgresql.org/)
 - [VueJS](https://vuejs.org/)
 - [Spring Boot](https://spring.io/projects/spring-boot)
-
-Bibliotecas:
-
+- [Docker](https://www.docker.com/)
 
 # Autores
 
