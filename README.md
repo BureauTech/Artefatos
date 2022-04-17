@@ -28,9 +28,9 @@ Desenvolvido pela [BureauTech](https://github.com/BureauTech).
 
 Este projeto está dividido, conforme descrição abaixo:
 
-- [Aplicação CRUD (Cadastrol - Backend)](https://github.com/BureauTech/Cadastrol-Server)
-- [Aplicação CRUD (Cadastrol - Frontend)](https://github.com/BureauTech/Cadastrol-Client)
-- [Aplicação com Inteligência Artificial (BTAlert)](https://github.com/BureauTech/BTAlert-AI)
+- Aplicação CRUD (Cadastrol - Backend)[https://github.com/BureauTech/Cadastrol-Server]
+- Aplicação CRUD (Cadastrol - Frontend)[https://github.com/BureauTech/Cadastrol-Client]
+- Aplicação com Inteligência Artificial (BTAlert)[https://github.com/BureauTech/BTAlert-AI]
 
 # Entregas
 
@@ -53,7 +53,7 @@ Este projeto está dividido, conforme descrição abaixo:
 ## Burndown
 
 <div align="center">
-  <img src="docs/Imagens/Burndown-Sprint1.png" />
+  <img src="./doc/img/burndown3.png" />
 </div>
 <br/> 
 
@@ -81,11 +81,11 @@ Para execução da aplicação a ser monitorada (Cadastrol), é importante ter a
 
 [Clique aqui para execução do Backend](https://github.com/BureauTech/Cadastrol-Server)
 
-[Clique aqui para execução do Frontend](https://github.com/BureauTech/Cadastrol-Server)
+[Clique aqui para execução do Frontend](https://github.com/BureauTech/Cadastrol-Client)
 
 ## Servidor
 
-Para execução do lado do servidor (aplicação teste), leia os [procedimentos para execução](https://github.com/BureauTech/Cadastrol-Client#how-to-install). 
+Para execução do lado do servidor (aplicação teste), leia os [procedimentos para execução](https://github.com/BureauTech/Cadastrol-Server#how-to-install). 
 
 ## Cliente
 
