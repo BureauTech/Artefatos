@@ -28,9 +28,9 @@ Desenvolvido pela [BureauTech](https://github.com/BureauTech).
 
 Este projeto está dividido, conforme descrição abaixo:
 
-- Aplicação CRUD (Cadastrol - Backend)[https://github.com/BureauTech/Cadastrol-Server]
-- Aplicação CRUD (Cadastrol - Frontend)[https://github.com/BureauTech/Cadastrol-Client]
-- Aplicação com Inteligência Artificial (BTAlert)[https://github.com/BureauTech/BTAlert-AI]
+- [Aplicação CRUD (Cadastrol - Backend)](https://github.com/BureauTech/Cadastrol-Server)
+- [Aplicação CRUD (Cadastrol - Frontend)](https://github.com/BureauTech/Cadastrol-Client)
+- [Aplicação com Inteligência Artificial (BTAlert)](https://github.com/BureauTech/BTAlert-AI)
 
 # Entregas
 
