@@ -28,13 +28,14 @@ Desenvolvido pela [BureauTech](https://github.com/BureauTech).
 
 Este projeto está dividido, conforme descrição abaixo:
 
-- Aplicação CRUD (Cadastrol - Backend)[https://github.com/BureauTech/Cadastrol-Server]
-- Aplicação CRUD (Cadastrol - Frontend)[https://github.com/BureauTech/Cadastrol-Client]
-- Aplicação com Inteligência Artificial (BTAlert)[https://github.com/BureauTech/BTAlert-AI]
+- Aplicação CRUD [Cadastrol - Backend](https://github.com/BureauTech/Cadastrol-Server)
+- Aplicação CRUD [Cadastrol - Frontend](https://github.com/BureauTech/Cadastrol-Client)
+- Aplicação com Inteligência Artificial [BTAlert](https://github.com/BureauTech/BTAlert-AI)
 
 # Entregas
 
 - *Sprint 1* entrega realizada em 17/04/2022.
+- *Sprint 2* entrega realizada em 15/05/2022.
 
 ## Visão geral do projeto
 
@@ -53,7 +54,7 @@ Este projeto está dividido, conforme descrição abaixo:
 ## Burndown
 
 <div align="center">
-  <img src="./doc/img/burndown3.png" />
+  <img src="./doc/img/Burndown-Sprint2.png" />
 </div>
 <br/> 
 
