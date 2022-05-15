@@ -35,7 +35,6 @@ Este projeto está dividido, conforme descrição abaixo:
 # Entregas
 
 - *Sprint 1* entrega realizada em 17/04/2022.
-- *Sprint 2* entrega realizada em 15/05/2022.
 
 ## Visão geral do projeto
 
@@ -45,7 +44,7 @@ Este projeto está dividido, conforme descrição abaixo:
 
 <br/> 
 
-## Entregas propostas Sprint 2
+## Entregas propostas Sprint 1
 
 <div align="center">
   <img src="./docs/Imagens/Cards%20-%20Sprint%201.png" />
@@ -54,7 +53,7 @@ Este projeto está dividido, conforme descrição abaixo:
 ## Burndown
 
 <div align="center">
-  <img src="docs/Imagens/Burndown-Sprint2.png" />
+  <img src="./doc/img/burndown3.png" />
 </div>
 <br/> 
 
@@ -72,17 +71,31 @@ Este projeto está dividido, conforme descrição abaixo:
 
 - [Termo de Abertura do Projeto](docs/Artefatos/TAP_V0.1.2.pdf)
 
+- [CheckList - Qualidade](docs/Artefatos/CheckList%20-%20Qualidade.pdf)
+
+- [PETI - BSC](docs/Artefatos/PETI%20-%20BSC.pdf)
+
+- [Plano de Custo](docs/Artefatos/Plano%20de%20Custo.pdf)
+
 # Como executar localmente
 
 Para executar a aplicação completa localmente:
 
 ### Pré-requisitos:
 
+Para execução da aplicação com inteliência artificial (BTAlert) para realização das predições:
+
+[Clique aqui para acesso ao repositório](https://github.com/BureauTech/BTAlert-AI).
+
 Para execução da aplicação a ser monitorada (Cadastrol), é importante ter ambientado o seu computador conforme documentados em seus repositórios.
 
 [Clique aqui para execução do Backend](https://github.com/BureauTech/Cadastrol-Server)
 
 [Clique aqui para execução do Frontend](https://github.com/BureauTech/Cadastrol-Client)
+
+## Inteligência Artificial
+
+Para execução da ferramenta de inteligência artificial, leia os [procedimentos para execução](https://github.com/BureauTech/BTAlert-AI#locally)
 
 ## Servidor
 
@@ -101,6 +114,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [VueJS](https://vuejs.org/)
 - [Spring Boot](https://spring.io/projects/spring-boot)
 - [Docker](https://www.docker.com/)
+- [Python](https://www.python.org/)
+- [Grafana](https://grafana.com/)
+- [Prometheus](https://prometheus.io/)
 
 # Autores
 
