@@ -45,16 +45,16 @@ Este projeto está dividido, conforme descrição abaixo:
 
 <br/> 
 
-## Entregas propostas Sprint 1
+## Entregas propostas Sprint 2
 
 <div align="center">
-  <img src="./docs/Imagens/Cards%20-%20Sprint%201.png" />
+  <img src="./docs/Imagens/Cards%20-%20Sprint%202.png" />
 </div>
 
 ## Burndown
 
 <div align="center">
-  <img src="./doc/img/Burndown-Sprint2.png" />
+  <img src="./docs/Imagens/Burndown-Sprint2.png" />
 </div>
 <br/> 
 
