@@ -39,7 +39,6 @@ Este projeto está dividido, conforme descrição abaixo:
 - *Sprint 2* entrega realizada em 15/05/2022.
 - *Sprint 3* entrega realizada em 05/06/2022.
 
-
 ## Visão geral do projeto
 
 <div align="center">
@@ -51,13 +50,13 @@ Este projeto está dividido, conforme descrição abaixo:
 ## Entregas propostas Sprint 3
 
 <div align="center">
-  <img src="./docs/Imagens/Cards%20-%20Sprint%202.png" />
+  <img src="./docs/Imagens/Cards%20-%20Sprint%203.png" />
 </div>
 
 ## Burndown
 
 <div align="center">
-  <img src="./docs/Imagens/Burndown-Sprint2.png" />
+  <img src="./docs/Imagens/Burndown-Sprint3.png" />
 </div>
 <br/> 
 
