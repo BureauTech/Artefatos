@@ -19,6 +19,7 @@ Desenvolvido pela [BureauTech](https://github.com/BureauTech).
       * [Documentações](#documentações)
    * [Como executar localmente](#como-executar-localmente)
       * [Pré-Requisitos](#pré-requisitos)
+      * [Inteligência Artificial](#inteligência-artificial)
       * [Servidor](#servidor)
       * [Cliente](#cliente)
    * [Tecnologias](#tecnologias)
@@ -36,6 +37,8 @@ Este projeto está dividido, conforme descrição abaixo:
 
 - *Sprint 1* entrega realizada em 17/04/2022.
 - *Sprint 2* entrega realizada em 15/05/2022.
+- *Sprint 3* entrega realizada em 05/06/2022.
+
 
 ## Visão geral do projeto
 
@@ -45,7 +48,7 @@ Este projeto está dividido, conforme descrição abaixo:
 
 <br/> 
 
-## Entregas propostas Sprint 2
+## Entregas propostas Sprint 3
 
 <div align="center">
   <img src="./docs/Imagens/Cards%20-%20Sprint%202.png" />
