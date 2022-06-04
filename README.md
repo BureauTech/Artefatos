@@ -3,7 +3,7 @@
 Repositório onde estão sendo salvos os documentos do time da Bureau referente ao projeto BTAlert.
 
 <div align="center">
-  <img src="/docs/Imagens/BureauTechLogo.png" height="400" width="600"/>
+  <img src="/docs/Imagens/BureauTechLogo.png" height="200" width="300"/>
 <p align="center">Plataforma de previsibilidade de ocorrências</p>
 
 Desenvolvido pela [BureauTech](https://github.com/BureauTech).
@@ -19,6 +19,7 @@ Desenvolvido pela [BureauTech](https://github.com/BureauTech).
       * [Documentações](#documentações)
    * [Como executar localmente](#como-executar-localmente)
       * [Pré-Requisitos](#pré-requisitos)
+      * [Inteligência Artificial](#inteligência-artificial)
       * [Servidor](#servidor)
       * [Cliente](#cliente)
    * [Tecnologias](#tecnologias)
@@ -79,13 +80,19 @@ Este projeto está dividido, conforme descrição abaixo:
 
 - [Plano de Custo](docs/Artefatos/Plano%20de%20Custo.pdf)
 
+- [Project Model Canvas](docs/Artefatos/Project%20Model%20Canvas.pdf)
+
+- [EAP](docs/Artefatos/EAP.pdf)
+
+- [ITL](https://bureautech.freshdesk.com/)
+
 # Como executar localmente
 
 Para executar a aplicação completa localmente:
 
 ### Pré-requisitos:
 
-Para execução da aplicação com inteliência artificial (BTAlert) para realização das predições:
+Para execução da aplicação com inteligência artificial (BTAlert) para realização das predições:
 
 [Clique aqui para acesso ao repositório](https://github.com/BureauTech/BTAlert-AI).
 
