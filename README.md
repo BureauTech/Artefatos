@@ -3,7 +3,7 @@
 Repositório onde estão sendo salvos os documentos do time da Bureau referente ao projeto BTAlert.
 
 <div align="center">
-  <img src="/docs/Imagens/BureauTechLogo.png" height="400" width="600"/>
+  <img src="/docs/Imagens/BureauTechLogo.png" height="200" width="300"/>
 <p align="center">Plataforma de previsibilidade de ocorrências</p>
 
 Desenvolvido pela [BureauTech](https://github.com/BureauTech).
