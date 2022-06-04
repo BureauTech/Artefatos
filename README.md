@@ -81,6 +81,12 @@ Este projeto está dividido, conforme descrição abaixo:
 
 - [Plano de Custo](docs/Artefatos/Plano%20de%20Custo.pdf)
 
+- [Project Model Canvas](docs/Artefatos/Project%20Model%20Canvas.pdf)
+
+- [EAP](docs/Artefatos/EAP.pdf)
+
+- [ITL](https://bureautech.freshdesk.com/)
+
 # Como executar localmente
 
 Para executar a aplicação completa localmente:
