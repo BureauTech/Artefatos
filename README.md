@@ -84,7 +84,7 @@ Este projeto está dividido, conforme descrição abaixo:
 
 - [EAP](docs/Artefatos/EAP.pdf)
 
-- [ITL](https://bureautech.freshdesk.com/)
+- [ITIL](https://bureautech.freshdesk.com/)
 
 # Como executar localmente
 
