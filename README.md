@@ -93,7 +93,7 @@ Para executar a aplicação completa localmente:
 
 ### Pré-requisitos:
 
-Para execução da aplicação com inteliência artificial (BTAlert) para realização das predições:
+Para execução da aplicação com inteligência artificial (BTAlert) para realização das predições:
 
 [Clique aqui para acesso ao repositório](https://github.com/BureauTech/BTAlert-AI).
 
